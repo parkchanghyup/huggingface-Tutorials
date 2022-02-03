@@ -1,6 +1,6 @@
 # huggingface-Tutorials
 
-huggingface 튜토리얼 입니다.
+huggingface 튜토리얼 입니다..
 
 |notebook|설명|colab|
 |---|---|---|
