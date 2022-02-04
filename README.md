@@ -10,5 +10,5 @@ huggingface 튜토리얼 입니다..
 |4. 질의응답 모델 학습| 질의응답 모델을 fine-tune하여 사용하는 방법에 대해 알아 봅니다.|colab|
 |5. 한-영 번역 모델 학습| 한-영 번역 모델을 fine-tune하여 사용하는 방법에 대해 알아 봅니다.|colab|
 
-https://colab.research.google.com/drive/1XgEmOgYNcd2NFc_3SwMDdMn9uKJ1JVYa
+[colab](https://colab.research.google.com/drive/1XgEmOgYNcd2NFc_3SwMDdMn9uKJ1JVYa)
 
